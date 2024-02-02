@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "md-links": "github:andreaay/dev009-md-links",
+    "md-links-abril": "^0.1.0",
+    "md-links-ang": "^1.0.9",
+    "md-links-camim": "github:CAMIANAIS/DEV009-md-links",
     "serve": "^14.2.0"
   }
 }
